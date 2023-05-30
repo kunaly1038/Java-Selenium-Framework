@@ -1,0 +1,26 @@
+- config.properties
+- pom.xml
+- src/
+  - main/
+    - java/
+      - com/
+        - yourcompany/
+          - framework/
+            - locators/
+              - LoginPageLocators.java
+              - HomePageLocators.java
+            - pages/
+              - LoginPage.java
+              - HomePage.java
+            - helpers/
+              - DriverManager.java
+              - ConfigReader.java
+              - TestLogger.java
+              - ElementHelper.java
+              - WaitHelper.java
+          - tests/
+            - LoginTest.java
+            - HomePageTest.java
+  - test/
+    - resources/
+      - config.properties

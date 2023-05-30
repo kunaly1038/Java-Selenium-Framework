@@ -1,0 +1,9 @@
+d:\java-selenium-framework\src\main\java\core\framework\helpers\ElementHelper.java
+d:\java-selenium-framework\src\main\java\core\framework\helpers\WaitHelper.java
+d:\java-selenium-framework\src\main\java\core\framework\pages\LoginPageHelper.java
+d:\java-selenium-framework\src\main\java\core\framework\helpers\DriverManager.java
+d:\java-selenium-framework\src\main\java\core\framework\helpers\TestLogger.java
+d:\java-selenium-framework\src\main\java\core\tests\BaseTest.java
+d:\java-selenium-framework\src\main\java\core\framework\helpers\ConfigReader.java
+d:\java-selenium-framework\src\main\java\core\tests\loginTest.java
+d:\java-selenium-framework\src\main\java\core\framework\locators\LoginPageLocators.java
